@@ -1,0 +1,16 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Sideas.Josimar.Facturacion
+/Sideas.Josimar.Facturacion/.vs
+/Sideas.Josimar.Facturacion/bin/Debug/net6.0
+/Sideas.Josimar.Facturacion/obj
+/Sideas.Josimar.Facturacion.Entities/bin/Debug/net6.0
+/Sideas.Josimar.Facturacion.Entities/obj
+/Sideas.Josimar.Facturacion.Infrastructure/bin/Debug/net6.0
+/Sideas.Josimar.Facturacion.Infrastructure/obj
+/Sideas.Josimar.Facturacion.Models/bin/Debug/net6.0
+/Sideas.Josimar.Facturacion.Models/obj
+/Sideas.Josimar.Facturacion.Services/bin/Debug/net6.0
+/Sideas.Josimar.Facturacion.Services/obj
